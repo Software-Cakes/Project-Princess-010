@@ -1,5 +1,6 @@
 # Project-Princess-010
-Group Name: 010 < br / >
+Group Name: 010
+
 Members: Muhasana Muskan () and Suthinee Segkhoonthod (000371030)
 
 # Welcome aboard to Project Princess 010!
