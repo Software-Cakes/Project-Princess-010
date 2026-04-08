@@ -14,6 +14,17 @@ Razor-focused and cool under pressure, the Pilot is the brain of any mission. Th
 | R1C1 | R1C2 | R1C3 |
 | R2C1 | R2C2 | R2C3 |
 
+| Powers and Abilities |
+| Evasive Maneuver | Text |
+| Slipstream Draft | Text |
+| Navigation Lock | Text |
+| Emergency Burn | Text |
+| Weaknesses |
+| Exposed Cockpit | Text |
+| Automatic Control Loss | Text |
+| Motion Sickness | Text |
+| Tunnel Vision | Text |
+
 ### Medic 
 (Description) 
 #### Powers and Abilities 
