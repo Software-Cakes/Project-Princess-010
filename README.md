@@ -10,13 +10,10 @@ Project Princess 010 has successfully come to fruition: people can now enjoy a f
 ### Pilot 
 Razor-focused and cool under pressure, the Pilot is the brain of any mission. The Pilot reads incoming threats, making split-second calls to keep everyone safe while simultaneously mapping escape routes in the case the worst comes to pass.
 #### Powers and Abilities 
-↳ Evasive Maneuver: Grants the second crew member a dodge buff for the next 4 turn, reducing their incoming damage by 15%.
-
-↳ Slipstream Draft: Nullifies 30% of damage the Pilot receives this turn and the following 3 turns.
-
-↳ Navigation Lock: Reduces the current threat’s outgoing damage by 20% and raises the second crew member’s attack by 25% for the next 2 turns 
-
-↳ Emergency Burn: Nullifies 50% of the net HP damage the second crew member absorbed in the previous 4 turns.
+- Evasive Maneuver: Grants the second crew member a dodge buff for the next 4 turn, reducing their incoming damage by 15%.
+- Slipstream Draft: Nullifies 30% of damage the Pilot receives this turn and the following 3 turns.
+- Navigation Lock: Reduces the current threat’s outgoing damage by 20% and raises the second crew member’s attack by 25% for the next 2 turns 
+- Emergency Burn: Nullifies 50% of the net HP damage the second crew member absorbed in the previous 4 turns.
 
 #### Weaknesses
 ↳
