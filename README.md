@@ -8,6 +8,25 @@ Project Princess 010 has successfully come to fruition: people can now enjoy a f
 
 ## Meet the Crew Members! 
 ### Pilot 
+Razor-focused and cool under pressure, the Pilot is the brain of any mission. The Pilot reads incoming threats, making split-second calls to keep everyone safe while simultaneously mapping escape routes in the case the worst comes to pass.
+#### Powers and Abilities 
+↳
+
+↳
+
+↳
+
+↳
+#### Weaknesses
+↳
+
+↳
+
+↳
+
+↳
+
+### Medic 
 (Description) 
 #### Powers and Abilities 
 ↳
@@ -19,4 +38,66 @@ Project Princess 010 has successfully come to fruition: people can now enjoy a f
 ↳
 #### Weaknesses
 ↳
+
+↳
+
+↳
+
+↳
+
+### Engineer 
+(Description) 
+#### Powers and Abilities 
+↳
+
+↳
+
+↳
+
+↳
+#### Weaknesses
+↳
+
+↳
+
+↳
+
+↳
+
+### Scientist 
+(Description) 
+#### Powers and Abilities 
+↳
+
+↳
+
+↳
+
+↳
+#### Weaknesses
+↳
+
+↳
+
+↳
+
+↳
+
+### Soldier 
+(Description) 
+#### Powers and Abilities 
+↳
+
+↳
+
+↳
+
+↳
+#### Weaknesses
+↳
+
+↳
+
+↳
+
 ↳
