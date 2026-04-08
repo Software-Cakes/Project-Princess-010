@@ -10,4 +10,6 @@ Project Princess 010 has successfully come to fruition: people can now enjoy a f
 ### Pilot 
 (Description) 
 #### Powers and Abilities 
+↳
 #### Weaknesses
+↳
