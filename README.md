@@ -9,10 +9,6 @@ Project Princess 010 has successfully come to fruition: people can now enjoy a f
 ## Meet the Crew Members! 
 ### Pilot 
 Razor-focused and cool under pressure, the Pilot is the brain of any mission. The Pilot reads incoming threats, making split-second calls to keep everyone safe while simultaneously mapping escape routes in the case the worst comes to pass.
-| Header1 | Header2 | Header3 |
-| — — — | — — — — — -| — — — — — |
-| R1C1 | R1C2 | R1C3 |
-| R2C1 | R2C2 | R2C3 |
 
 | Powers and Abilities |
 | ----------------------|
