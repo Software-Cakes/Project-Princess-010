@@ -58,8 +58,8 @@ A micrometeorite has punched through the hull of an observation deck, leaving a 
 
 
 ## Meet the Crew
-![](game%20assets/crew_members/pilot.png)
 ### Pilot 🚀
+![](game%20assets/crew_members/pilot.png)
 Razor-focused and cool under pressure, the Pilot is the brain of any mission. The Pilot reads incoming threats, making split-second calls to keep everyone safe while simultaneously mapping escape routes in the case the worst comes to pass.
 <table>
   <thead>
@@ -110,20 +110,20 @@ Razor-focused and cool under pressure, the Pilot is the brain of any mission. Th
   </tbody>
 </table>
 
-![](game%20assets/crew_members/medic.png)
 ### Medic 💉
+![](game%20assets/crew_members/medic.png)
 (Description) 
 
-![](game%20assets/crew_members/engineer.png)
 ### Engineer ⚙️
+![](game%20assets/crew_members/engineer.png)
 (Description) 
 
-![](game%20assets/crew_members/scientist.png)
 ### Scientist ⚗️
+![](game%20assets/crew_members/scientist.png)
 (Description) 
 
-![](game%20assets/crew_members/soldier.png)
 ### Soldier 💪
+![](game%20assets/crew_members/soldier.png)
 (Description) 
 
 
