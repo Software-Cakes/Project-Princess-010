@@ -435,12 +435,16 @@ NOTE: The 5XP reward for incapacitation only applies when the second crew member
 
 A crew member’s level increases by the following formula: 
 
-Total\ XP\ Required\ to\ Reach\ Level\ N=\ Cummulative\ Total\ XP\ +\ (N\ \times\ 10)
+<p align="center">
+  <i>Total XP Required to Reach Level N = Cummulative Total XP + (N x 10)</i>
+</p>
 
 To advance from Level 1 to Level 2, a character needs 20XP. To advance to Level 3, the character must earn an additional 30XP, and so on. XP accumulates across missions and does not reset upon leveling up. For example: 
 
 To advance a Level 4 Medic to a Level 5 Medic: 
 
-90\ XP\ (Cummulative\ Total\ XP)\ +\ 50XP\ (to\ reach\ Level\ 5)\ =\ 140XP\ Total\ Required\ 
+<p align="center">
+  <i>90XP (Cummulative Total XP) + 50XP (to reach Level 5) = 140XP Total Required</i>
+</p>
 
 The mission’s difficulty and threat damage levels increase based on each character’s current level. If two crew members who were selected to complete the mission have varying levels, threat scaling is based on the average of both characters’’ levels, rounded down. For example, A Level 3 Medic paired with a Level 1 Pilot produces an average of threat level 2. 
