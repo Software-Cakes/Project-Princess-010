@@ -27,16 +27,16 @@ Project Princess 010 has successfully come to fruition: people can now enjoy a f
 <br>
 
 ## Game Feature
-### Home Page
+### Home Page 🏠
 Text
 
-### Mission Control Page 
+### Mission Control Page 🔭
 Text
 
-### Mission Battle Page
+### Mission Battle Page 🚀
 Text
 
-### Add New Crew Member Page
+### Add New Crew Member Page 🧑‍🚀
 Text
 
 <br>
