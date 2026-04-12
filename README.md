@@ -105,4 +105,4 @@ Razor-focused and cool under pressure, the Pilot is the brain of any mission. Th
 
 ## Wireframs and UI Design 
 ### Home Page 
-![/ui wireframs/Home Page.jpg]
+![App Wireframe](ui%20wireframes/home_page.jpeg)
