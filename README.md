@@ -85,7 +85,11 @@ Text
 <br>
 
 ## Installation
-Text
+### Prerequisites 
+1. Installation of Android Studio
+2. Proficient knowledge in Java
+
+To install and play Project Princess 010, download the attached ZIP file: 
 
 <br>
 
