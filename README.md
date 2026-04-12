@@ -282,7 +282,7 @@ A micrometeorite has punched through the hull of an observation deck, leaving a 
   </tbody>
 </table>
 
-### Soldier 💪
+### Soldier 🛡️
 <p align="center">
   <img src="game%20assets/crew_members/soldier.png" width="400">
 </p>
