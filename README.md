@@ -111,79 +111,16 @@ Razor-focused and cool under pressure, the Pilot is the brain of any mission. Th
 
 ### Medic 💉
 (Description) 
-#### Powers and Abilities 
-↳
-
-↳
-
-↳
-
-↳
-#### Weaknesses
-↳
-
-↳
-
-↳
-
-↳
 
 ### Engineer ⚙️
 (Description) 
-#### Powers and Abilities 
-↳
-
-↳
-
-↳
-
-↳
-#### Weaknesses
-↳
-
-↳
-
-↳
-
-↳
 
 ### Scientist ⚗️
 (Description) 
-#### Powers and Abilities 
-↳
-
-↳
-
-↳
-
-↳
-#### Weaknesses
-↳
-
-↳
-
-↳
-
-↳
 
 ### Soldier 💪
 (Description) 
-#### Powers and Abilities 
-↳
 
-↳
-
-↳
-
-↳
-#### Weaknesses
-↳
-
-↳
-
-↳
-
-↳
 
 ## Completing a Mission
 Text
