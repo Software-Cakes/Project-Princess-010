@@ -45,7 +45,20 @@ Text
 ## Meet the Crew
 ### Pilot 🚀
 Razor-focused and cool under pressure, the Pilot is the brain of any mission. The Pilot reads incoming threats, making split-second calls to keep everyone safe while simultaneously mapping escape routes in the case the worst comes to pass.
-
+<table>
+  <thead>
+    <tr>
+      <th colspan="3">Powers and Abilities</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 ### Medic 💉
 (Description) 
