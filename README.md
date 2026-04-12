@@ -30,7 +30,7 @@ Project Princess 010 has successfully come to fruition: people can now enjoy a f
 ### Home Page 🏠
 The Home page displays the user's crew members in a Card Layout. Each card contains the crew member's given name (which can be renamed by the user himself/herself), current level, current XP, and number of successfully completed missions. To change a character's name, the user presses on the name string. Once clicked, a keyboard will pop up. After modifying the character's name, the user clicks "Enter" on the keyboard and the game will automatically update the newly modified input data. 
 
-Another primary feature of the Home Page is the Mission Control section. There, the user can select a mission task he/she wishes to complete. For example, if the user selects the mission "Fly Through an Uncharted Asteroid Field," the application will move forward to the Mission Control Page, where details about the task are stated and the user selects two characters to complete the mission.
+Another primary feature of the Home Page is the Mission Control section. There, the user can select a mission task he/she wishes to complete. For example, if the user selects the mission "Fly Through the Uncharted Asteroid Field," the application will move forward to the Mission Control Page, where details about the task are stated and the user selects two characters to complete the mission.
 
 <br>
 
