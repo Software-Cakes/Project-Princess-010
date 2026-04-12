@@ -91,7 +91,7 @@ A micrometeorite has punched through the hull of an observation deck, leaving a 
   </tbody>
   <thead>
     <tr>
-      <th colspan="2">Weaknesses</th>
+      <th colspan="2" align="left">Weaknesses</th>
     </tr>
   </thead>
   <tbody>
@@ -124,7 +124,7 @@ A micrometeorite has punched through the hull of an observation deck, leaving a 
 <table>
   <thead>
     <tr>
-      <th colspan="2">Powers and Abilities</th>
+      <th colspan="2" align="left">Powers and Abilities</th>
     </tr>
   </thead>
   <tbody>
@@ -147,7 +147,7 @@ A micrometeorite has punched through the hull of an observation deck, leaving a 
   </tbody>
   <thead>
     <tr>
-      <th colspan="2">Weaknesses</th>
+      <th colspan="2" align="left">Weaknesses</th>
     </tr>
   </thead>
   <tbody>
@@ -180,7 +180,7 @@ A micrometeorite has punched through the hull of an observation deck, leaving a 
 <table>
   <thead>
     <tr>
-      <th colspan="2">Powers and Abilities</th>
+      <th colspan="2" align="left">Powers and Abilities</th>
     </tr>
   </thead>
   <tbody>
@@ -203,7 +203,7 @@ A micrometeorite has punched through the hull of an observation deck, leaving a 
   </tbody>
   <thead>
     <tr>
-      <th colspan="2">Weaknesses</th>
+      <th colspan="2" align="left">Weaknesses</th>
     </tr>
   </thead>
   <tbody>
@@ -236,7 +236,7 @@ A micrometeorite has punched through the hull of an observation deck, leaving a 
 <table>
   <thead>
     <tr>
-      <th colspan="2">Powers and Abilities</th>
+      <th colspan="2" align="left">Powers and Abilities</th>
     </tr>
   </thead>
   <tbody>
@@ -259,7 +259,7 @@ A micrometeorite has punched through the hull of an observation deck, leaving a 
   </tbody>
   <thead>
     <tr>
-      <th colspan="2">Weaknesses</th>
+      <th colspan="2" align="left">Weaknesses</th>
     </tr>
   </thead>
   <tbody>
@@ -292,7 +292,7 @@ A micrometeorite has punched through the hull of an observation deck, leaving a 
 <table>
   <thead>
     <tr>
-      <th colspan="2">Powers and Abilities</th>
+      <th colspan="2" align="left">Powers and Abilities</th>
     </tr>
   </thead>
   <tbody>
@@ -315,7 +315,7 @@ A micrometeorite has punched through the hull of an observation deck, leaving a 
   </tbody>
   <thead>
     <tr>
-      <th colspan="2">Weaknesses</th>
+      <th colspan="2" align="left">Weaknesses</th>
     </tr>
   </thead>
   <tbody>
