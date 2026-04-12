@@ -59,7 +59,8 @@ To add an additional character, the user may press the Add to Your Crew button, 
 <br>
 
 ## UI Wireframes
-### Initial UI Wireframes Sketch
+### Initial UI Wireframes Designs
+![](ui%20wireframes/initial_designs.jpg)
 
 ### Final UI Wireframe Designs
 | Home Page | Mission Control Page | Mission Battle Page | Add New Crew Member Page |
