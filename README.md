@@ -63,12 +63,12 @@ Razor-focused and cool under pressure, the Pilot is the brain of any mission. Th
 <table>
   <thead>
     <tr>
-      <th colspan="2"><b>Powers and Abilities</b></th>
+      <th colspan="2">Powers and Abilities</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Evasive Maneuver</td>
+      <td><b>Evasive Maneuver</b></td>
       <td>Grants the second crew member a dodge buff for the next 4 turn, reducing their incoming damage by 15%</td>
     </tr>
     <tr>
@@ -76,11 +76,11 @@ Razor-focused and cool under pressure, the Pilot is the brain of any mission. Th
       <td>Description</td>
     </tr>
     <tr>
-      <td>Power Name</td>
+      <td><b>Power Name</b></td>
       <td>Description</td>
     </tr>
     <tr>
-      <td>Power Name</td>
+      <td><b>Power Name</b></td>
       <td>Description</td>
     </tr>
   </tbody>
@@ -91,19 +91,19 @@ Razor-focused and cool under pressure, the Pilot is the brain of any mission. Th
   </thead>
   <tbody>
     <tr>
-      <td>Weakness Name</td>
+      <td><b>Power Name</b></td>
       <td>Description</td>
     </tr>
     <tr>
-      <td>Weakness Name</td>
+      <td><b>Power Name</b></td>
       <td>Description</td>
     </tr>
     <tr>
-      <td>Weakness Name</td>
+      <td><b>Power Name</b></td>
       <td>Description</td>
     </tr>
     <tr>
-      <td>Weakness Name</td>
+      <td><b>Power Name</b></td>
       <td>Description</td>
     </tr>
   </tbody>
