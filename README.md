@@ -28,16 +28,22 @@ Project Princess 010 has successfully come to fruition: people can now enjoy a f
 
 ## Game Feature
 ### Home Page 🏠
-Text
+The Home page displays the user's crew members in a Card Layout. Each card contains the crew member's given name (which can be renamed by the user himself/herself), current level, current XP, and number of successfully completed missions. To change a character's name, the user presses on the name string. Once clicked, a keyboard will pop up. After modifying the character's name, the user clicks "Enter" on the keyboard and the game will automatically update the newly modified input data. 
+
+Another primary feature of the Home Page is the Mission Control section. There, the user can select a mission task he/she wishes to complete. For example, if the user selects the mission "Fly Through an Uncharted Asteroid Field," the application will move forward to the Mission Control Page, where details about the task are stated and the user selects two characters to complete the mission.
 
 ### Mission Control Page 🔭
-Text
+A crew member increases their XP by completing a mission with another selected character. In the Mission Control page, the application displays details about the task selected in the Home page. If the user wishes to play the game, he/she must select two crew members. Once ready, the user clicks on the "Start Mission" button, which will direct the user to the Mission Battle Page. If the user prefers a different mission, he/she may click on the "Control Room" icon in the bottom navigation bar. The application then directs the user back to the Home page.
 
 ### Mission Battle Page 🚀
-Text
+Attacks and damages take place in this page. Underneath both characters, the health bars are displayed. Additionally, a box containing various attack and defense options is shown for the user to select for the crew members. The application will switch between two characters, allowing the user to decide how to fight against the threats presented in the mission. 
+
+If a crew member's health bar reaches 0, the system will automatically disable the character from its continuance in the game, therefore leaving only one playable crew member for the user to play with in completing the task. If the second crew member's health bar also reaches 0, the application will automatically end the game before showing a notification with a preexisting UI message. If the user, however, does successfully complete the mission, then the application will display a congratulatory message. 
 
 ### Add New Crew Member Page 🧑‍🚀
-Text
+Users can add a new crew member to their collection. After pressing on the "Add New Crew Member" icon in the bottom navigation bar, the application navigates the user to a new screen featuring a search bar and a full list of available crew members with implementation of a RecyclerView Layout. Details about the crew members are visible on the card for the user to read (e.g., characteristics, attributes, powers, and weaknesses). 
+
+To add an additional character, the user may press the Add to Your Crew button, which is located at the bottom of the card. A confirmation box will pop up on the screen to ensure the selection. If the user selects "Yes," the crew member is added; selecting "No" dismisses the box, returning to the previous screen. If the user no longer wishes to add an additional crew member, he/she click on the "Control Room" icon in the bottom navigation bar. The application then directs the user back to the Home page.
 
 <br>
 
