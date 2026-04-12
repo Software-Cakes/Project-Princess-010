@@ -44,17 +44,22 @@ Text
 ### Mission 1: Fly Through the Uncharted Asteroid Field 🧭
 An uncharted asteroid field has suddenly appeared directly in the cruise’s path. However, the navigational system is completely offline. Your mission is to guide the ship through the field manually, dodging debris and avoiding collisions while they reboot the system.
 
+
 ### Mission 2: Reactor Core Meltdown 💥
 Project Princess 010’s core is overheating and may soon spiral towards critical failure. Your mission is to stabilize the core by engaging in emergency cooling protocols and mitigate the situation before the core breaches containment. 
+
 
 ### Mission 3: Oxygen System Failure 🩺
 Life support units are failing one by one across the ship. While CO₂ levels are climbing gradually, the crew and passengers will experience rapid critical health deterioration if it reaches the upper deck. Your mission is to repair the units before the CO₂ levels become life-threatening.
 
+
 ### Mission 4: Mysterious Illness Outbreak 🦠
 Following a visit to a recently visited planet, passengers are falling ill. After examining patients in the isolation pods, it is revealed that the discovered pathogen is unlike anything in the fleet’s medical database. Your mission is to contain the outbreak before it spreads ship wide. Remember, the isolation pods cannot hold forever.
 
+
 ### Mission 5: Breach in an Observation Deck 🔭
 A micrometeorite has punched through the hull of an observation deck, leaving a gaping hole open to the void. Air pressure is bleeding fast, and the clock is already running. Your mission is to seal the breach and restore pressure before oxygen loss becomes irreversible. 
+
 
 
 ## Meet the Crew
