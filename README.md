@@ -243,7 +243,7 @@ A micrometeorite has punched through the hull of an observation deck, leaving a 
   <tbody>
     <tr>
       <td><b>Exploited Vulnerability</b></td>
-      <td>Multiplies the damage the second crew member dealt in the previous turn by x5, applying it to the current attack (e.g., partner dealt 100 -> 500 bonus damage to threat).</td>
+      <td>Multiplies the damage the second crew member dealt in the previous turn by x5, applying it to the current attack (e.g., partner dealt 100 ⟶ 500 bonus damage to threat).</td>
     </tr>
     <tr>
       <td><b>Chemical Catalyst</b></td>
