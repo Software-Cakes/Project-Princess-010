@@ -69,6 +69,29 @@ Razor-focused and cool under pressure, the Pilot is the brain of any mission. Th
       <td></td>
     </tr>
   </tbody>
+  <thead>
+    <tr>
+      <th colspan="3">Weaknesses</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
 </table>
 
 ### Medic 💉
