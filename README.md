@@ -69,7 +69,7 @@ Razor-focused and cool under pressure, the Pilot is the brain of any mission. Th
   <tbody>
     <tr>
       <td>Evasive Maneuver</td>
-      <td>Grants the second crew member a dodge buff for the next 4 turn, reducing their incoming damage by 15%.</td>
+      <td>Grants the second crew member a dodge buff for the next 4 turn, reducing their incoming damage by 15%</td>
     </tr>
     <tr>
       <td>Power Name</td>
