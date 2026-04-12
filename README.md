@@ -89,6 +89,8 @@ Text
 1. Installation of Android Studio
 2. Proficient knowledge in Java
 
+<br>
+
 To install and play Project Princess 010, download the attached ZIP file: 
 
 <br>
