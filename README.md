@@ -371,10 +371,11 @@ Underneath the Mission Control sub-section, the user must select two of their cr
 
 After choosing two crew members, the user presses the “Start Mission” button, located beneath the Choose Your Fighters section. The application prepares the Mission Battle page. Once ready, it will transition to the Mission Battle page. 
 
+<br>
+
 ### Mission Battle Structure and Logic 🕹
 Initiating the mission, the application first generates a threat and directs it to Character A. Once damage is resolved, the application prints one of the preexisting UI messages. In this hypothetical scenario, the user has chosen a Medic and a Pilot to complete the fourth mission. After generating the threat to the Medic character, the application will print the following UI message: 
 > “Passengers in the quarantine area are deteriorating faster than you can treat them. (Character’s name) takes (number) damage. Choose your next move to neutralize the threat!”
-
 
 The game console, located in the bottom part of the screen, then displays the Medic’s powers: (1) Field Triage, (2) Antidote Protocol, (3) Adrenaline Shot, and (4) Emergency Revival. Any ability that is currently unavailable (on cooldown, locked by a condition, or blocked by the partner’s state) will appear muted to ensure the user only selects from the remaining available powers. After selecting the character’s next move, the application prints out the following UI message: 
 > “(Character’s name) deploys (Power’s name) to neutralize the threat!”
