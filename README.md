@@ -115,20 +115,228 @@ A micrometeorite has punched through the hull of an observation deck, leaving a 
 </table>
 
 ### Medic 💉
-![](game%20assets/crew_members/medic.png)
-(Description) 
+<p align="center">
+  <img src="game%20assets/crew_members/medic.png" width="400">
+</p>
+<p align="center">
+  <i>Razor-focused and cool under pressure, the Pilot is the brain of any mission. The Pilot reads incoming threats, making split-second calls to keep everyone safe while simultaneously mapping escape routes in the case the worst comes to pass.</i>
+</p>
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Powers and Abilities</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Evasive Maneuver</b></td>
+      <td>Grants the second crew member a dodge buff for the next 4 turn, reducing their incoming damage by 15%</td>
+    </tr>
+    <tr>
+      <td><b>Power Name</b></td>
+      <td>Description</td>
+    </tr>
+    <tr>
+      <td><b>Power Name</b></td>
+      <td>Description</td>
+    </tr>
+    <tr>
+      <td><b>Power Name</b></td>
+      <td>Description</td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="2">Weaknesses</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Power Name</b></td>
+      <td>Description</td>
+    </tr>
+    <tr>
+      <td><b>Power Name</b></td>
+      <td>Description</td>
+    </tr>
+    <tr>
+      <td><b>Power Name</b></td>
+      <td>Description</td>
+    </tr>
+    <tr>
+      <td><b>Power Name</b></td>
+      <td>Description</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Engineer ⚙️
-![](game%20assets/crew_members/engineer.png)
-(Description) 
+<p align="center">
+  <img src="game%20assets/crew_members/engineer.png" width="400">
+</p>
+<p align="center">
+  <i>Razor-focused and cool under pressure, the Pilot is the brain of any mission. The Pilot reads incoming threats, making split-second calls to keep everyone safe while simultaneously mapping escape routes in the case the worst comes to pass.</i>
+</p>
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Powers and Abilities</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Evasive Maneuver</b></td>
+      <td>Grants the second crew member a dodge buff for the next 4 turn, reducing their incoming damage by 15%</td>
+    </tr>
+    <tr>
+      <td><b>Power Name</b></td>
+      <td>Description</td>
+    </tr>
+    <tr>
+      <td><b>Power Name</b></td>
+      <td>Description</td>
+    </tr>
+    <tr>
+      <td><b>Power Name</b></td>
+      <td>Description</td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="2">Weaknesses</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Power Name</b></td>
+      <td>Description</td>
+    </tr>
+    <tr>
+      <td><b>Power Name</b></td>
+      <td>Description</td>
+    </tr>
+    <tr>
+      <td><b>Power Name</b></td>
+      <td>Description</td>
+    </tr>
+    <tr>
+      <td><b>Power Name</b></td>
+      <td>Description</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Scientist ⚗️
-![](game%20assets/crew_members/scientist.png)
-(Description) 
+<p align="center">
+  <img src="game%20assets/crew_members/scientist.png" width="400">
+</p>
+<p align="center">
+  <i>Razor-focused and cool under pressure, the Pilot is the brain of any mission. The Pilot reads incoming threats, making split-second calls to keep everyone safe while simultaneously mapping escape routes in the case the worst comes to pass.</i>
+</p>
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Powers and Abilities</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Evasive Maneuver</b></td>
+      <td>Grants the second crew member a dodge buff for the next 4 turn, reducing their incoming damage by 15%</td>
+    </tr>
+    <tr>
+      <td><b>Power Name</b></td>
+      <td>Description</td>
+    </tr>
+    <tr>
+      <td><b>Power Name</b></td>
+      <td>Description</td>
+    </tr>
+    <tr>
+      <td><b>Power Name</b></td>
+      <td>Description</td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="2">Weaknesses</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Power Name</b></td>
+      <td>Description</td>
+    </tr>
+    <tr>
+      <td><b>Power Name</b></td>
+      <td>Description</td>
+    </tr>
+    <tr>
+      <td><b>Power Name</b></td>
+      <td>Description</td>
+    </tr>
+    <tr>
+      <td><b>Power Name</b></td>
+      <td>Description</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Soldier 💪
-![](game%20assets/crew_members/soldier.png)
-(Description) 
+<p align="center">
+  <img src="game%20assets/crew_members/soldier.png" width="400">
+</p>
+<p align="center">
+  <i>Razor-focused and cool under pressure, the Pilot is the brain of any mission. The Pilot reads incoming threats, making split-second calls to keep everyone safe while simultaneously mapping escape routes in the case the worst comes to pass.</i>
+</p>
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Powers and Abilities</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Evasive Maneuver</b></td>
+      <td>Grants the second crew member a dodge buff for the next 4 turn, reducing their incoming damage by 15%</td>
+    </tr>
+    <tr>
+      <td><b>Power Name</b></td>
+      <td>Description</td>
+    </tr>
+    <tr>
+      <td><b>Power Name</b></td>
+      <td>Description</td>
+    </tr>
+    <tr>
+      <td><b>Power Name</b></td>
+      <td>Description</td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="2">Weaknesses</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Power Name</b></td>
+      <td>Description</td>
+    </tr>
+    <tr>
+      <td><b>Power Name</b></td>
+      <td>Description</td>
+    </tr>
+    <tr>
+      <td><b>Power Name</b></td>
+      <td>Description</td>
+    </tr>
+    <tr>
+      <td><b>Power Name</b></td>
+      <td>Description</td>
+    </tr>
+  </tbody>
+</table> 
 
 
 ## Completing a Mission
