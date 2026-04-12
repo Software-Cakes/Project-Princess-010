@@ -6,6 +6,7 @@ Members: Muhasana Muskan (002275684) and Suthinee Segkhoonthod (000371030)
 ## Welcome Aboard to Project Princess 010!
 Project Princess 010 has successfully come to fruition: people can now enjoy a fun cruise exploring space! The crew members of Project Princess 010 are tasked with ensuring and maintaining the well-being of the passengers and a safe journey through space. However, they often find themselves in dangerous situations, from maneuvering through an asteroid field to avoiding incoming solar flares. Players must ensure that threats are eliminated so that the passengers of Project Princess 010 have a safe, wonderful journey as they experience space exploration.
 
+> Claude and Gemini were used in this assignment to explain coding errors and encountered bugs.
 
 ## Table of Contents
 * [Game Features](#game-features)
@@ -432,7 +433,6 @@ When the user adds a new crew member to the fleet, the character starts at Level
   </tbody>
 </table>
 NOTE: The 5XP reward for incapacitation only applies when the second crew member successfully solos the mission to completion. If the mission fails for any reason, no XP is awarded to either crew member.
-
 
 A crew member’s level increases by the following formula: 
 
