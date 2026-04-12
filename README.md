@@ -49,7 +49,7 @@ If a crew member's health bar reaches 0, the system will automatically disable t
 ### Add New Crew Member Page 🧑‍🚀
 Users can add a new crew member to their collection. After pressing on the "Add New Crew Member" icon in the bottom navigation bar, the application navigates the user to a new screen featuring a search bar and a full list of available crew members with implementation of a RecyclerView Layout. Details about the crew members are visible on the card for the user to read (e.g., characteristics, attributes, powers, and weaknesses). 
 
-To add an additional character, the user may press the Add to Your Crew button, which is located at the bottom of the card. A confirmation box will pop up on the screen to ensure the selection. If the user selects "Yes," the crew member is added; selecting "No" dismisses the box, returning to the previous screen. If the user no longer wishes to add an additional crew member, he/she click on the "Control Room" icon in the bottom navigation bar. The application then directs the user back to the Home page.
+To add an additional character, the user may press the Add to Your Crew button, which is located at the bottom of the card. A text box will appear for the user to set the newly added crew member's name. If the user no longer wishes to add an additional crew member, he/she click on the "Control Room" icon in the bottom navigation bar. The application then directs the user back to the Home page.
 
 <br>
 
@@ -443,13 +443,13 @@ After choosing two crew members, the user presses the “Start Mission” button
 Initiating the mission, the application first generates a threat and directs it to Character A. Once damage is resolved, the application prints one of the preexisting UI messages. In this hypothetical scenario, the user has chosen a Medic and a Pilot to complete the fourth mission. After generating the threat to the Medic character, the application will print the following UI message: 
 > “Passengers in the quarantine area are deteriorating faster than you can treat them. (Character’s name) takes (number) damage. Choose your next move to neutralize the threat!”
 
-The game console, located in the bottom part of the screen, then displays the Medic’s powers: (1) Field Triage, (2) Antidote Protocol, (3) Adrenaline Shot, and (4) Emergency Revival. Any ability that is currently unavailable (on cooldown, locked by a condition, or blocked by the partner’s state) will appear muted to ensure the user only selects from the remaining available powers. After selecting the character’s next move, the application prints out the following UI message: 
+The game console, located in the bottom part of the screen, then displays Character A's abilities. In this hypothetical case, it prints the Medic’s powers: (1) Field Triage, (2) Antidote Protocol, (3) Adrenaline Shot, and (4) Emergency Revival. After selecting the character’s next move, the application prints out the following UI message: 
 > “(Character’s name) deploys (Power’s name) to neutralize the threat!”
 
 The system then generates a threat that attacks Character B (in this example use case, the Pilot). Once damage is resolved, it prints out the following message: 
 > “Infected crew members are no longer fit for duty, and failing automated systems are surging through the flight controls. (Character’s name) takes (number) damage. Choose your next move to neutralize the threat!”
 
-The game console then displays the Pilot’s powers: (1) Evasive Maneuver, (2) Slipstream Draft, (3) Navigation Lock, and (4) Emergency Burn. Any ability that is currently unavailable (on cooldown, locked by a condition, or blocked by the partner’s state) will appear muted. After selecting the character’s next move, the application prints the following UI message: 
+The game console then displays Character B's abilities. In this hypothetical case, it prints the Pilot’s powers: (1) Evasive Maneuver, (2) Slipstream Draft, (3) Navigation Lock, and (4) Emergency Burn. After selecting the character’s next move, the application prints the following UI message: 
 > “(Character’s name) deploys (Power’s name) to neutralize the threat!”
 
 <br>
