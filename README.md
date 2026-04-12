@@ -110,15 +110,19 @@ Razor-focused and cool under pressure, the Pilot is the brain of any mission. Th
   </tbody>
 </table>
 
+![](game%20assets/crew_members/medic.png)
 ### Medic 💉
 (Description) 
 
+![](game%20assets/crew_members/engineer.png)
 ### Engineer ⚙️
 (Description) 
 
+![](game%20assets/crew_members/scientist.png)
 ### Scientist ⚗️
 (Description) 
 
+![](game%20assets/crew_members/soldier.png)
 ### Soldier 💪
 (Description) 
 
