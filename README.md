@@ -340,7 +340,7 @@ A micrometeorite has punched through the hull of an observation deck, leaving a 
 
 
 ## Completing a Mission
-### Initiating the Mission 
+### Initiating the Mission 🌟
 The user selects one of the five missions available to complete in the game Project Princess 010:
 1. Fly Through the Uncharted Asteroid Field,
 2.	Reactor Core Meltdown,
@@ -370,7 +370,7 @@ Underneath the Mission Control sub-section, the user must select two of their cr
 
 After choosing two crew members, the user presses the “Start Mission” button, located beneath the Choose Your Fighters section. The application prepares the Mission Battle page. Once ready, it will transition to the Mission Battle page. 
 
-### Mission Battle Structure and Logic
+### Mission Battle Structure and Logic 🕹
 Initiating the mission, the application first generates a threat and directs it to Character A. Once damage is resolved, the application prints one of the preexisting UI messages. In this hypothetical scenario, the user has chosen a Medic and a Pilot to complete the fourth mission. After generating the threat to the Medic character, the application will print the following UI message: 
 > “Passengers in the quarantine area are deteriorating faster than you can treat them. (Character’s name) takes (number) damage. Choose your next move to neutralize the threat!”
 
@@ -384,7 +384,7 @@ The system then generates a threat that attacks Character B (in this example use
 The game console then displays the Pilot’s powers: (1) Evasive Maneuver, (2) Slipstream Draft, (3) Navigation Lock, and (4) Emergency Burn. Any ability that is currently unavailable (on cooldown, locked by a condition, or blocked by the partner’s state) will appear muted. After selecting the character’s next move, the application prints the following UI message: 
 > “(Character’s name) deploys (Power’s name) to neutralize the threat!”
 
-### Incapacitation and Solo Play
+### Incapacitation and Solo Play 🪐
 The system switches turns in generating threats and attacking the characters. If one of the characters’ HP reaches 0 and cannot be revived (i.e., revival is unavailable), the application prints the following UI message:
 > “(Character’s name) has succumbed to the damages and requires immediate medical attention. (Character’s name) must now complete the mission alone. Good luck!”
 
@@ -400,4 +400,35 @@ The application returns the user to the Home page, where the user can select a n
 
 
 ## Gaining XP and Leveling Up
-Text
+When the user adds a new crew member to the fleet, the character starts at Level 1 with 0 XP. Characters increases their XP by completing missions. XP is determined by each character’s status at mission end, not by events occurring during battle. 
+<table>
+  <thead>
+    <tr>
+      <th>Scenario</th>
+      <th>XP Earned</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+NOTE: The 5XP reward for incapacitation only applies when the second crew member successfully solos the mission to completion. If the mission fails for any reason, no XP is awarded to either crew member.
