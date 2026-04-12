@@ -96,20 +96,20 @@ A micrometeorite has punched through the hull of an observation deck, leaving a 
   </thead>
   <tbody>
     <tr>
-      <td><b>Power Name</b></td>
-      <td>Description</td>
+      <td><b>Exposed Cockpit</b></td>
+      <td>Takes 15% additional damage whenever targeted directly</td>
     </tr>
     <tr>
-      <td><b>Power Name</b></td>
-      <td>Description</td>
+      <td><b>Automatic Control Loss</b></td>
+      <td>Emergency Burn becomes unusable if the second crew member is incapacitated</td>
     </tr>
     <tr>
-      <td><b>Power Name</b></td>
-      <td>Description</td>
+      <td><b>Motion Sickness</b></td>
+      <td>If the Pilot takes 45% or more damage to their max HP in a single turn, Navigation Lock is cancelled and becomes unusable that turn</td>
     </tr>
     <tr>
-      <td><b>Power Name</b></td>
-      <td>Description</td>
+      <td><b>Tunnel Vision</b></td>
+      <td>After using Evasive Maneuver or Slipstream Draft, the Pilot’s own defense decreases by 10% the following turn</td>
     </tr>
   </tbody>
 </table>
