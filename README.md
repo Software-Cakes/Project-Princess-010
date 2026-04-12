@@ -340,7 +340,7 @@ A micrometeorite has punched through the hull of an observation deck, leaving a 
 
 
 ## Completing a Mission
-### Initiating the Mission
+### Initiating the Mission 
 The user selects one of the five missions available to complete in the game Project Princess 010:
 1. Fly Through the Uncharted Asteroid Field,
 2.	Reactor Core Meltdown,
@@ -350,6 +350,53 @@ The user selects one of the five missions available to complete in the game Proj
 
 After clicking on the desired mission, the application navigates the user from the Control Room page (the application’s Home page) to the Mission Control Page. In the Mission Control Page, the mission’s assignment is detailed in the Mission Control sub-section. For example, if the user selected Mission 4: Mysterious Illness Outbreak, the application returns its task description: 
 > “Following a visit to a recently visited planet, passengers are falling ill. After examining patients in the isolation pods, it is revealed that the discovered pathogen is unlike anything in the fleet’s medical database. Your mission is to contain the outbreak before it spreads ship wide. Remember, the isolation pods cannot hold forever.”
+
+Underneath the Mission Control sub-section, the user must select two of their crew members. The possible pairings are: 
+1.	Pilot and Pilot, 
+2.	Pilot and Medic, 
+3.	Pilot and Engineer, 
+4.	Pilot and Scientist, 
+5.	Pilot and Soldier, 
+6.	Medic and Medic, 
+7.	Medic and Engineer, 
+8.	Medic and Scientist, 
+9.	Medic and Soldier, 
+10.	Engineer and Engineer, 
+11.	Engineer and Scientist, 
+12.	Engineer and Soldier, 
+13.	Scientist and Scientist, 
+14.	Scientist and Soldier, and 
+15.	Soldier and Soldier.
+
+After choosing two crew members, the user presses the “Start Mission” button, located beneath the Choose Your Fighters section. The application prepares the Mission Battle page. Once ready, it will transition to the Mission Battle page. 
+
+### Mission Battle Structure and Logic
+Initiating the mission, the application first generates a threat and directs it to Character A. Once damage is resolved, the application prints one of the preexisting UI messages. In this hypothetical scenario, the user has chosen a Medic and a Pilot to complete the fourth mission. After generating the threat to the Medic character, the application will print the following UI message: 
+> “Passengers in the quarantine area are deteriorating faster than you can treat them. (Character’s name) takes (number) damage. Choose your next move to neutralize the threat!”
+
+
+The game console, located in the bottom part of the screen, then displays the Medic’s powers: (1) Field Triage, (2) Antidote Protocol, (3) Adrenaline Shot, and (4) Emergency Revival. Any ability that is currently unavailable (on cooldown, locked by a condition, or blocked by the partner’s state) will appear muted to ensure the user only selects from the remaining available powers. After selecting the character’s next move, the application prints out the following UI message: 
+> “(Character’s name) deploys (Power’s name) to neutralize the threat!”
+
+The system then generates a threat that attacks Character B (in this example use case, the Pilot). Once damage is resolved, it prints out the following message: 
+> “Infected crew members are no longer fit for duty, and failing automated systems are surging through the flight controls. (Character’s name) takes (number) damage. Choose your next move to neutralize the threat!”
+
+The game console then displays the Pilot’s powers: (1) Evasive Maneuver, (2) Slipstream Draft, (3) Navigation Lock, and (4) Emergency Burn. Any ability that is currently unavailable (on cooldown, locked by a condition, or blocked by the partner’s state) will appear muted. After selecting the character’s next move, the application prints the following UI message: 
+> “(Character’s name) deploys (Power’s name) to neutralize the threat!”
+
+### Incapacitation and Solo Play
+The system switches turns in generating threats and attacking the characters. If one of the characters’ HP reaches 0 and cannot be revived (i.e., revival is unavailable), the application prints the following UI message:
+> “(Character’s name) has succumbed to the damages and requires immediate medical attention. (Character’s name) must now complete the mission alone. Good luck!”
+
+The game then resumes with the remaining playable character until either the mission’s assignment is complete (i.e., the threat reaches 0) or the second crew member’s HP reaches 0. 
+
+If the mission is successfully completed, the application will print the following UI message: 
+> “Mission accomplished! You have successfully neutralized the threat and kept the passengers safe. Project Princess 010 can now resume her journey through the stars. Returning to the control room…”
+
+However, in the case where the user does not successfully complete the mission:
+> “Critical failure! Initiate Recovery Protocol 67: locate the nearest habitable planet immediately for recovery. Any found repairs will be completed there before Project Princess 010 can continue her voyage through the stars. Returning to the control room…”
+
+The application returns the user to the Home page, where the user can select a new mission assignment to complete. 
 
 
 ## Gaining XP and Leveling Up
