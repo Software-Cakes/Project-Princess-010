@@ -32,13 +32,19 @@ The Home page displays the user's crew members in a Card Layout. Each card conta
 
 Another primary feature of the Home Page is the Mission Control section. There, the user can select a mission task he/she wishes to complete. For example, if the user selects the mission "Fly Through an Uncharted Asteroid Field," the application will move forward to the Mission Control Page, where details about the task are stated and the user selects two characters to complete the mission.
 
+<br>
+
 ### Mission Control Page 🔭
 A crew member increases their XP by completing a mission with another selected character. In the Mission Control page, the application displays details about the task selected in the Home page. If the user wishes to play the game, he/she must select two crew members. Once ready, the user clicks on the "Start Mission" button, which will direct the user to the Mission Battle Page. If the user prefers a different mission, he/she may click on the "Control Room" icon in the bottom navigation bar. The application then directs the user back to the Home page.
+
+<br>
 
 ### Mission Battle Page 🚀
 Attacks and damages take place in this page. Underneath both characters, the health bars are displayed. Additionally, a box containing various attack and defense options is shown for the user to select for the crew members. The application will switch between two characters, allowing the user to decide how to fight against the threats presented in the mission. 
 
 If a crew member's health bar reaches 0, the system will automatically disable the character from its continuance in the game, therefore leaving only one playable crew member for the user to play with in completing the task. If the second crew member's health bar also reaches 0, the application will automatically end the game before showing a notification with a preexisting UI message. If the user, however, does successfully complete the mission, then the application will display a congratulatory message. 
+
+<br>
 
 ### Add New Crew Member Page 🧑‍🚀
 Users can add a new crew member to their collection. After pressing on the "Add New Crew Member" icon in the bottom navigation bar, the application navigates the user to a new screen featuring a search bar and a full list of available crew members with implementation of a RecyclerView Layout. Details about the crew members are visible on the card for the user to read (e.g., characteristics, attributes, powers, and weaknesses). 
@@ -86,14 +92,22 @@ Text
 ### Mission 1: Fly Through the Uncharted Asteroid Field 🧭
 An uncharted asteroid field has suddenly appeared directly in the cruise’s path. However, the navigational system is completely offline. Your mission is to guide the ship through the field manually, dodging debris and avoiding collisions while they reboot the system.
 
+<br>
+
 ### Mission 2: Reactor Core Meltdown 💥
 Project Princess 010’s core is overheating and may soon spiral towards critical failure. Your mission is to stabilize the core by engaging in emergency cooling protocols and mitigate the situation before the core breaches containment. 
+
+<br>
 
 ### Mission 3: Oxygen System Failure 🩺
 Life support units are failing one by one across the ship. While CO₂ levels are climbing gradually, the crew and passengers will experience rapid critical health deterioration if it reaches the upper deck. Your mission is to repair the units before the CO₂ levels become life-threatening.
 
+<br>
+
 ### Mission 4: Mysterious Illness Outbreak 🦠
 Following a visit to a recently visited planet, passengers are falling ill. After examining patients in the isolation pods, it is revealed that the discovered pathogen is unlike anything in the fleet’s medical database. Your mission is to contain the outbreak before it spreads ship wide. Remember, the isolation pods cannot hold forever.
+
+<br>
 
 ### Mission 5: Breach in an Observation Deck 🔭
 A micrometeorite has punched through the hull of an observation deck, leaving a gaping hole open to the void. Air pressure is bleeding fast, and the clock is already running. Your mission is to seal the breach and restore pressure before oxygen loss becomes irreversible. 
@@ -157,6 +171,8 @@ A micrometeorite has punched through the hull of an observation deck, leaving a 
   </tbody>
 </table>
 
+<br>
+
 ### Medic 💉
 <p align="center">
   <img src="game%20assets/crew_members/medic.png" width="400">
@@ -212,6 +228,8 @@ A micrometeorite has punched through the hull of an observation deck, leaving a 
     </tr>
   </tbody>
 </table>
+
+<br>
 
 ### Engineer ⚙️
 <p align="center">
@@ -269,6 +287,8 @@ A micrometeorite has punched through the hull of an observation deck, leaving a 
   </tbody>
 </table>
 
+<br>
+
 ### Scientist ⚗️
 <p align="center">
   <img src="game%20assets/crew_members/scientist.png" width="400">
@@ -324,6 +344,8 @@ A micrometeorite has punched through the hull of an observation deck, leaving a 
     </tr>
   </tbody>
 </table>
+
+<br>
 
 ### Soldier 🛡️
 <p align="center">
