@@ -14,11 +14,11 @@ Project Princess 010 has successfully come to fruition: people can now enjoy a f
 
 ## Table of Contents
 * [Game Features](#game-features)
-* [UML Diagram](#uml_diagram)
+* [UML Diagram](#uml-diagram)
 * [UI Wireframes](#ui-wireframes)
-* [Utilized Technologies](#utilized_technologies)
-* [Demonstration Video](#game-features)
-* [Installation](#uml_diagram)
+* [Utilized Technologies](#utilized-technologies)
+* [Demonstration Video](#demonstration-video)
+* [Installation](#installation)
 * [Missions of Project Princess 010](#missions-of-project-princess-010)
 * [Meet the Crew](#meet-the-crew)
 * [Completing a Mission](#completing-a-mission)
