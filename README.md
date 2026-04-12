@@ -32,7 +32,7 @@ Text
 <br>
 
 ## UML Diagram
-Text
+![](uml_diagram.jpg)
 
 <br>
 
