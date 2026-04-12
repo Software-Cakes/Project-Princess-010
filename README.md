@@ -91,7 +91,7 @@ Text
 
 <br>
 
-To install and play Project Princess 010, download the attached ZIP file: 
+To install and play Project Princess 010, download this repository as a ZIP file. Once downloaded, open the ZIP file. On Android Studio, click "Open" and select the downloaded project folder. Enjoy completing missions of Project Princess 010 to continue the amazing journey through space!
 
 <br>
 
