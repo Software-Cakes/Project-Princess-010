@@ -23,23 +23,34 @@ Project Princess 010 has successfully come to fruition: people can now enjoy a f
 ## Game Feature
 Text
 
+<br>
+
 ## UML Diagram
 Text
+
+<br>
 
 ## UI Wireframes 
 | Home Page | Mission Control Page | Battle Page | Add New Crew Member Page |
 | :---: | :---: | :---: | :---: |
 | ![](ui%20wireframes/home_page.jpg) | ![](ui%20wireframes/mission_control_page.jpg) | ![](ui%20wireframes/battle_page.jpg) | ![](ui%20wireframes/add_new_crew_member_page.jpg) |
 
+<br>
+
 ## Utilized Technologies
 Text
+
+<br>
 
 ## Demonstration Video
 Text
 
+<br>
+
 ## Installation
 Text
 
+<br>
 
 ## Missions of Project Princess 010
 ### Mission 1: Fly Through the Uncharted Asteroid Field 🧭
@@ -57,6 +68,7 @@ Following a visit to a recently visited planet, passengers are falling ill. Afte
 ### Mission 5: Breach in an Observation Deck 🔭
 A micrometeorite has punched through the hull of an observation deck, leaving a gaping hole open to the void. Air pressure is bleeding fast, and the clock is already running. Your mission is to seal the breach and restore pressure before oxygen loss becomes irreversible. 
 
+<br>
 
 ## Meet the Crew
 ### Pilot 🚀
@@ -339,6 +351,7 @@ A micrometeorite has punched through the hull of an observation deck, leaving a 
   </tbody>
 </table> 
 
+<br>
 
 ## Completing a Mission
 ### Initiating the Mission 🌟
