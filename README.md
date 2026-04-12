@@ -48,7 +48,7 @@ Razor-focused and cool under pressure, the Pilot is the brain of any mission. Th
 <table>
   <thead>
     <tr>
-      <th colspan="3">Powers and Abilities</th>
+      <th>Powers and Abilities</th>
     </tr>
   </thead>
   <tbody>
