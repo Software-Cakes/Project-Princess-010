@@ -138,7 +138,7 @@ A micrometeorite has punched through the hull of an observation deck, leaving a 
     </tr>
     <tr>
       <td><b>Adrenaline Shot</b></td>
-      <td>: Sacrifices 15% of the Medic’s current HP to boost both crew members’ attack damage by 40% for the next 4 turns.</td>
+      <td>Sacrifices 15% of the Medic’s current HP to boost both crew members’ attack damage by 40% for the next 4 turns.</td>
     </tr>
     <tr>
       <td><b>Emergency Revival</b></td>
