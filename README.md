@@ -77,16 +77,16 @@ A micrometeorite has punched through the hull of an observation deck, leaving a 
       <td>Grants the second crew member a dodge buff for the next 4 turn, reducing their incoming damage by 15%</td>
     </tr>
     <tr>
-      <td><b>Power Name</b></td>
-      <td>Description</td>
+      <td><b>Slipstream Draft</b></td>
+      <td>Nullifies 30% of damage the Pilot receives this turn and the following 3 turns</td>
     </tr>
     <tr>
-      <td><b>Power Name</b></td>
-      <td>Description</td>
+      <td><b>Navigation Lock</b></td>
+      <td>Reduces the current threat’s outgoing damage by 20% and raises the second crew member’s attack by 25% for the next 2 turns</td>
     </tr>
     <tr>
-      <td><b>Power Name</b></td>
-      <td>Description</td>
+      <td><b>Emergency Burn</b></td>
+      <td>Nullifies 50% of the net HP damage the second crew member absorbed in the previous 4 turns</td>
     </tr>
   </tbody>
   <thead>
