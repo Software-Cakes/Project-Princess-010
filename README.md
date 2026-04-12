@@ -55,8 +55,9 @@ Text
 
 ## Utilized Technologies
 * FigJam: Developing the application's UML diagram
-* Figma: Designing the application's UI wireframes
 * Procreate: Sketching in the initial UI wireframes and designing the application's game assets
+* Figma: Designing the application's UI wireframes
+* Android Studio: Serving as the application's development IDE
 * Groovy DSL and Java: Primary build configuration on Android Studio and coding language
 * Claude and Gemini: Additional assistance tool for providing coding issues elucidation (e.g., inappropriate functionality implementation and build configuration errors)
 
