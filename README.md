@@ -73,11 +73,11 @@ A micrometeorite has punched through the hull of an observation deck, leaving a 
   </thead>
   <tbody>
     <tr>
-      <td>Evasive Maneuver</td>
+      <td><b>Evasive Maneuver</b></td>
       <td>Grants the second crew member a dodge buff for the next 4 turn, reducing their incoming damage by 15%</td>
     </tr>
     <tr>
-      <td>Slipstream Draft</td>
+      <td><b>Slipstream Draft</b></td>
       <td>Nullifies 30% of damage the Pilot receives this turn and the following 3 turns</td>
     </tr>
     <tr>
@@ -91,7 +91,7 @@ A micrometeorite has punched through the hull of an observation deck, leaving a 
   </tbody>
   <thead>
     <tr>
-      <th colspan="2" align="left">Weaknesses</th>
+      <th colspan="2">Weaknesses</th>
     </tr>
   </thead>
   <tbody>
