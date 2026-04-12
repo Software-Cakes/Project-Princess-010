@@ -404,6 +404,8 @@ However, in the case where the user does not successfully complete the mission:
 
 The application returns the user to the Home page, where the user can select a new mission assignment to complete. 
 
+<br>
+<br>
 
 ## Gaining XP and Leveling Up
 When the user adds a new crew member to the fleet, the character starts at Level 1 with 0 XP. Characters increases their XP by completing missions. XP is determined by each character’s status at mission end, not by events occurring during battle. 
