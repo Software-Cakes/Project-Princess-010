@@ -410,25 +410,37 @@ When the user adds a new crew member to the fleet, the character starts at Level
   </thead>
   <tbody>
     <tr>
-      <td></td>
-      <td></td>
+      <td>Both crew members survive and mission is successfully completed</td>
+      <td>Each crew member gains 10XP.</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>A crew member was revived mid-game and survives to completion</td>
+      <td>They gain 10 XP.</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>A crew member is incapacitated (unrevivable) and their partner solos to success</td>
+      <td>The incapacitated crew member gains 5XP; the solo player gains 15XP.</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>A crew member is incapacitated (unrevivable) but remaining partner fails the mission</td>
+      <td>Both crew members gain 0XP.</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>Both crew members are incapacitated and the mission fails</td>
+      <td>Both crew members gain 0XP.</td>
     </tr>
   </tbody>
 </table>
 NOTE: The 5XP reward for incapacitation only applies when the second crew member successfully solos the mission to completion. If the mission fails for any reason, no XP is awarded to either crew member.
+
+A crew member’s level increases by the following formula: 
+
+Total\ XP\ Required\ to\ Reach\ Level\ N=\ Cummulative\ Total\ XP\ +\ (N\ \times\ 10)
+
+To advance from Level 1 to Level 2, a character needs 20XP. To advance to Level 3, the character must earn an additional 30XP, and so on. XP accumulates across missions and does not reset upon leveling up. For example: 
+
+To advance a Level 4 Medic to a Level 5 Medic: 
+
+90\ XP\ (Cummulative\ Total\ XP)\ +\ 50XP\ (to\ reach\ Level\ 5)\ =\ 140XP\ Total\ Required\ 
+
+The mission’s difficulty and threat damage levels increase based on each character’s current level. If two crew members who were selected to complete the mission have varying levels, threat scaling is based on the average of both characters’’ levels, rounded down. For example, A Level 3 Medic paired with a Level 1 Pilot produces an average of threat level 2. 
