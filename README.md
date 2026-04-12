@@ -433,6 +433,7 @@ When the user adds a new crew member to the fleet, the character starts at Level
 </table>
 NOTE: The 5XP reward for incapacitation only applies when the second crew member successfully solos the mission to completion. If the mission fails for any reason, no XP is awarded to either crew member.
 
+
 A crew member’s level increases by the following formula: 
 
 <p align="center">
