@@ -394,6 +394,8 @@ The system switches turns in generating threats and attacking the characters. If
 
 The game then resumes with the remaining playable character until either the mission’s assignment is complete (i.e., the threat reaches 0) or the second crew member’s HP reaches 0. 
 
+<br>
+
 If the mission is successfully completed, the application will print the following UI message: 
 > “Mission accomplished! You have successfully neutralized the threat and kept the passengers safe. Project Princess 010 can now resume her journey through the stars. Returning to the control room…”
 
