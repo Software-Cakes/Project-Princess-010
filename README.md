@@ -384,7 +384,9 @@ The system then generates a threat that attacks Character B (in this example use
 
 The game console then displays the Pilot’s powers: (1) Evasive Maneuver, (2) Slipstream Draft, (3) Navigation Lock, and (4) Emergency Burn. Any ability that is currently unavailable (on cooldown, locked by a condition, or blocked by the partner’s state) will appear muted. After selecting the character’s next move, the application prints the following UI message: 
 > “(Character’s name) deploys (Power’s name) to neutralize the threat!”
+
 <br>
+
 ### Incapacitation and Solo Play 🪐
 The system switches turns in generating threats and attacking the characters. If one of the characters’ HP reaches 0 and cannot be revived (i.e., revival is unavailable), the application prints the following UI message:
 > “(Character’s name) has succumbed to the damages and requires immediate medical attention. (Character’s name) must now complete the mission alone. Good luck!”
