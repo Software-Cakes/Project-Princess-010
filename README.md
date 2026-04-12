@@ -53,20 +53,20 @@ Razor-focused and cool under pressure, the Pilot is the brain of any mission. Th
   </thead>
   <tbody>
     <tr>
-      <td></td>
-      <td></td>
+      <td>Power Name</td>
+      <td>Description</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>Power Name</td>
+      <td>Description</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>Power Name</td>
+      <td>Description</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>Power Name</td>
+      <td>Description</td>
     </tr>
   </tbody>
   <thead>
@@ -76,20 +76,20 @@ Razor-focused and cool under pressure, the Pilot is the brain of any mission. Th
   </thead>
   <tbody>
     <tr>
-      <td></td>
-      <td></td>
+      <td>Weakness Name</td>
+      <td>Description</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>Weakness Name</td>
+      <td>Description</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>Weakness Name</td>
+      <td>Description</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>Weakness Name</td>
+      <td>Description</td>
     </tr>
   </tbody>
 </table>
