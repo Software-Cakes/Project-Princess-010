@@ -27,6 +27,16 @@ Project Princess 010 has successfully come to fruition: people can now enjoy a f
 <br>
 
 ## Game Feature
+### Home Page
+Text
+
+### Mission Control Page 
+Text
+
+### Mission Battle Page
+Text
+
+### Add New Crew Member Page
 Text
 
 <br>
@@ -37,7 +47,7 @@ Text
 <br>
 
 ## UI Wireframes 
-| Home Page | Mission Control Page | Battle Page | Add New Crew Member Page |
+| Home Page | Mission Control Page | Mission Battle Page | Add New Crew Member Page |
 | :---: | :---: | :---: | :---: |
 | ![](ui%20wireframes/home_page.jpg) | ![](ui%20wireframes/mission_control_page.jpg) | ![](ui%20wireframes/battle_page.jpg) | ![](ui%20wireframes/add_new_crew_member_page.jpg) |
 
