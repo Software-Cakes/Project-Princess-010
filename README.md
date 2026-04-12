@@ -74,19 +74,19 @@ A micrometeorite has punched through the hull of an observation deck, leaving a 
   <tbody>
     <tr>
       <td><b>Evasive Maneuver</b></td>
-      <td>Grants the second crew member a dodge buff for the next 4 turn, reducing their incoming damage by 15%</td>
+      <td>Grants the second crew member a dodge buff for the next 4 turn, reducing their incoming damage by 15%.</td>
     </tr>
     <tr>
       <td><b>Slipstream Draft</b></td>
-      <td>Nullifies 30% of damage the Pilot receives this turn and the following 3 turns</td>
+      <td>Nullifies 30% of damage the Pilot receives this turn and the following 3 turns.</td>
     </tr>
     <tr>
       <td><b>Navigation Lock</b></td>
-      <td>Reduces the current threat’s outgoing damage by 20% and raises the second crew member’s attack by 25% for the next 2 turns</td>
+      <td>Reduces the current threat’s outgoing damage by 20% and raises the second crew member’s attack by 25% for the next 2 turns.</td>
     </tr>
     <tr>
       <td><b>Emergency Burn</b></td>
-      <td>Nullifies 50% of the net HP damage the second crew member absorbed in the previous 4 turns</td>
+      <td>Nullifies 50% of the net HP damage the second crew member absorbed in the previous 4 turns.</td>
     </tr>
   </tbody>
   <thead>
@@ -97,19 +97,19 @@ A micrometeorite has punched through the hull of an observation deck, leaving a 
   <tbody>
     <tr>
       <td><b>Exposed Cockpit</b></td>
-      <td>Takes 15% additional damage whenever targeted directly</td>
+      <td>Takes 15% additional damage whenever targeted directly.</td>
     </tr>
     <tr>
       <td><b>Automatic Control Loss</b></td>
-      <td>Emergency Burn becomes unusable if the second crew member is incapacitated</td>
+      <td>Emergency Burn becomes unusable if the second crew member is incapacitated.</td>
     </tr>
     <tr>
       <td><b>Motion Sickness</b></td>
-      <td>If the Pilot takes 45% or more damage to their max HP in a single turn, Navigation Lock is cancelled and becomes unusable that turn</td>
+      <td>If the Pilot takes 45% or more damage to their max HP in a single turn, Navigation Lock is cancelled and becomes unusable that turn.</td>
     </tr>
     <tr>
       <td><b>Tunnel Vision</b></td>
-      <td>After using Evasive Maneuver or Slipstream Draft, the Pilot’s own defense decreases by 10% the following turn</td>
+      <td>After using Evasive Maneuver or Slipstream Draft, the Pilot’s own defense decreases by 10% the following turn.</td>
     </tr>
   </tbody>
 </table>
@@ -119,7 +119,7 @@ A micrometeorite has punched through the hull of an observation deck, leaving a 
   <img src="game%20assets/crew_members/medic.png" width="400">
 </p>
 <p align="center">
-  <i>Razor-focused and cool under pressure, the Pilot is the brain of any mission. The Pilot reads incoming threats, making split-second calls to keep everyone safe while simultaneously mapping escape routes in the case the worst comes to pass.</i>
+  <i>Equal parts scientist and caregiver, the Medic keeps the crew mission-ready and the passengers safe and sound. The Medic, alongside with the Scientist, synthesizes treatments on the fly, reverses the worst conditions imaginable, and can push the crew members past their normal limits in when the situation demands it.</i>
 </p>
 <table>
   <thead>
@@ -129,20 +129,20 @@ A micrometeorite has punched through the hull of an observation deck, leaving a 
   </thead>
   <tbody>
     <tr>
-      <td><b>Evasive Maneuver</b></td>
-      <td>Grants the second crew member a dodge buff for the next 4 turn, reducing their incoming damage by 15%</td>
+      <td><b>Field Triage</b></td>
+      <td>Reverses 40% of damage the target received in the previous 2 turns.</td>
     </tr>
     <tr>
-      <td><b>Power Name</b></td>
-      <td>Description</td>
+      <td><b>Antidote Protocol</b></td>
+      <td>Reduces incoming damage to the second crew member by 20 next turn and reflects x2 that reduced amount back to the threat.</td>
     </tr>
     <tr>
-      <td><b>Power Name</b></td>
-      <td>Description</td>
+      <td><b>Adrenaline Shot</b></td>
+      <td>: Sacrifices 15% of the Medic’s current HP to boost both crew members’ attack damage by 40% for the next 4 turns.</td>
     </tr>
     <tr>
-      <td><b>Power Name</b></td>
-      <td>Description</td>
+      <td><b>Emergency Revival</b></td>
+      <td>Revives the second crew member at full HP. Each subsequent use to restore HP reduces by 10% (e.g. second use: 90%; third use: 80%).</td>
     </tr>
   </tbody>
   <thead>
@@ -152,20 +152,20 @@ A micrometeorite has punched through the hull of an observation deck, leaving a 
   </thead>
   <tbody>
     <tr>
-      <td><b>Power Name</b></td>
-      <td>Description</td>
+      <td><b>Everyone’s Healer</b></td>
+      <td>When receiving healing, it is capped at 50% of their maximum HP.</td>
     </tr>
     <tr>
-      <td><b>Power Name</b></td>
-      <td>Description</td>
+      <td><b>Supply Limited</b></td>
+      <td>After any ability is used, that same ability is unavailable for the next 3 turns.</td>
     </tr>
     <tr>
-      <td><b>Power Name</b></td>
-      <td>Description</td>
+      <td><b>Priority Target</b></td>
+      <td>Threats increase their attack damage against the Medic by 5% with each passing turn, regardless of actions taken.</td>
     </tr>
     <tr>
-      <td><b>Power Name</b></td>
-      <td>Description</td>
+      <td><b>Contamination Risk</b></td>
+      <td>The Medic takes an additional 10% damage per turn from all sources as the mission progresses, stacking cumulatively.</td>
     </tr>
   </tbody>
 </table>
@@ -175,7 +175,7 @@ A micrometeorite has punched through the hull of an observation deck, leaving a 
   <img src="game%20assets/crew_members/engineer.png" width="400">
 </p>
 <p align="center">
-  <i>Razor-focused and cool under pressure, the Pilot is the brain of any mission. The Pilot reads incoming threats, making split-second calls to keep everyone safe while simultaneously mapping escape routes in the case the worst comes to pass.</i>
+  <i>Resourceful, methodical, and relentlessly efficient, the Engineer is the fleet’s problem-solver. The Engineer improvises solutions in unprecedented circumstances while keeping every crewmate and passenger as safe as possible.</i>
 </p>
 <table>
   <thead>
@@ -185,20 +185,20 @@ A micrometeorite has punched through the hull of an observation deck, leaving a 
   </thead>
   <tbody>
     <tr>
-      <td><b>Evasive Maneuver</b></td>
-      <td>Grants the second crew member a dodge buff for the next 4 turn, reducing their incoming damage by 15%</td>
+      <td><b>Overload Circuit</b></td>
+      <td>Increases the second crew member’s attack effectiveness by 200% for their next 2 turns.</td>
     </tr>
     <tr>
-      <td><b>Power Name</b></td>
-      <td>Description</td>
+      <td><b>EMP Pulse</b></td>
+      <td>Stuns the current threat, reducing the damage they deal by 15% for the next 2 turns.</td>
     </tr>
     <tr>
-      <td><b>Power Name</b></td>
-      <td>Description</td>
+      <td><b>Reinforce Armor</b></td>
+      <td>Deploys a barrier on both crew members, absorbing 10% of the next 3 hits each.</td>
     </tr>
     <tr>
-      <td><b>Power Name</b></td>
-      <td>Description</td>
+      <td><b>System Reroute</b></td>
+      <td>Redirects the active threat’s debuff effect away from the Engineer into the mission environment, reducing the threat’s next attack by 20%.</td>
     </tr>
   </tbody>
   <thead>
@@ -208,20 +208,20 @@ A micrometeorite has punched through the hull of an observation deck, leaving a 
   </thead>
   <tbody>
     <tr>
-      <td><b>Power Name</b></td>
-      <td>Description</td>
+      <td><b>Overheat</b></td>
+      <td>Each use of Overload Circuit costs the Engineer 10% of their current HP immediately.</td>
     </tr>
     <tr>
-      <td><b>Power Name</b></td>
-      <td>Description</td>
+      <td><b>Heavy Gear</b></td>
+      <td>After using EMP Pulse, the Engineer receives 10% additional damage from all sources the next turn.</td>
     </tr>
     <tr>
-      <td><b>Power Name</b></td>
-      <td>Description</td>
+      <td><b>Technical Difficulties</b></td>
+      <td>After deploying Reinforce Armor, the ability is unavailable for the next 3 turns.</td>
     </tr>
     <tr>
-      <td><b>Power Name</b></td>
-      <td>Description</td>
+      <td><b>System Reroute Failure</b></td>
+      <td>If there is no active incoming debuff to redirect, the Engineer loses their turn and takes 10% additional damage for the next 2 turns.</td>
     </tr>
   </tbody>
 </table>
@@ -231,7 +231,7 @@ A micrometeorite has punched through the hull of an observation deck, leaving a 
   <img src="game%20assets/crew_members/scientist.png" width="400">
 </p>
 <p align="center">
-  <i>Razor-focused and cool under pressure, the Pilot is the brain of any mission. The Pilot reads incoming threats, making split-second calls to keep everyone safe while simultaneously mapping escape routes in the case the worst comes to pass.</i>
+  <i>Dangerous, brilliant, and calculative, the Scientist weaponizes knowledge itself. The Scientist analyzes threats mid-battle, exploits every exposed vulnerability, and delivers devastating blows that bypass conventional defenses.</i>
 </p>
 <table>
   <thead>
@@ -241,20 +241,20 @@ A micrometeorite has punched through the hull of an observation deck, leaving a 
   </thead>
   <tbody>
     <tr>
-      <td><b>Evasive Maneuver</b></td>
-      <td>Grants the second crew member a dodge buff for the next 4 turn, reducing their incoming damage by 15%</td>
+      <td><b>Exploited Vulnerability</b></td>
+      <td>Multiplies the damage the second crew member dealt in the previous turn by x5, applying it to the current attack (e.g., partner dealt 100 -> 500 bonus damage to threat).</td>
     </tr>
     <tr>
-      <td><b>Power Name</b></td>
-      <td>Description</td>
+      <td><b>Chemical Catalyst</b></td>
+      <td>Removes 15% of damage received in the previous 2 turns and nullifies the same amount in the next 2 turns.</td>
     </tr>
     <tr>
-      <td><b>Power Name</b></td>
-      <td>Description</td>
+      <td><b>Plasma Burst</b></td>
+      <td>Takes 20% of damage the second crew member received last turn (after mitigation and reflection) and deals it as bonus damage to the current attack.</td>
     </tr>
     <tr>
-      <td><b>Power Name</b></td>
-      <td>Description</td>
+      <td><b>Chain Reaction</b></td>
+      <td>Reduces all threat attack damage by 10% for per turn, stacking cumulatively for up to 4 turns. Stacks persist for the remainder of the mission once applied.</td>
     </tr>
   </tbody>
   <thead>
@@ -264,20 +264,20 @@ A micrometeorite has punched through the hull of an observation deck, leaving a 
   </thead>
   <tbody>
     <tr>
-      <td><b>Power Name</b></td>
-      <td>Description</td>
+      <td><b>Volatile Reaction</b></td>
+      <td>After using Exploited Vulnerability, the ability is unavailable for the next 3 turns.</td>
     </tr>
     <tr>
-      <td><b>Power Name</b></td>
-      <td>Description</td>
+      <td><b>Miscalculated</b></td>
+      <td>Triggers only when the second crew member receives zero net HP damage and deals zero damage last turn. Plasma Burst fails and the Scientist takes an additional 15% of that turn’s incoming attack. Reflection counts as dealing damage and prevents this trigger.</td>
     </tr>
     <tr>
-      <td><b>Power Name</b></td>
-      <td>Description</td>
+      <td><b>Weak Linkage</b></td>
+      <td>Exploited Vulnerability and Plasma Burst become unusable while the second crew member is incapacitated.</td>
     </tr>
     <tr>
-      <td><b>Power Name</b></td>
-      <td>Description</td>
+      <td><b>Chemical Burn</b></td>
+      <td>After using Chemical Catalyst, the ability is locked for the next 2 turns.</td>
     </tr>
   </tbody>
 </table>
@@ -287,7 +287,7 @@ A micrometeorite has punched through the hull of an observation deck, leaving a 
   <img src="game%20assets/crew_members/soldier.png" width="400">
 </p>
 <p align="center">
-  <i>Razor-focused and cool under pressure, the Pilot is the brain of any mission. The Pilot reads incoming threats, making split-second calls to keep everyone safe while simultaneously mapping escape routes in the case the worst comes to pass.</i>
+  <i>Built for the front line, the Soldier stands between every incoming threat and the rest of the crew. The Soldier absorbs damages no one else could survive, stabilizes the situation when there is imminent danger, and refuses to go down until the mission is done.</i>
 </p>
 <table>
   <thead>
@@ -297,20 +297,20 @@ A micrometeorite has punched through the hull of an observation deck, leaving a 
   </thead>
   <tbody>
     <tr>
-      <td><b>Evasive Maneuver</b></td>
-      <td>Grants the second crew member a dodge buff for the next 4 turn, reducing their incoming damage by 15%</td>
+      <td><b>Protection Shield</b></td>
+      <td>Absorbs 10% of the net HP damage the second crew member received in the previous 2 turns, restoring 20% of their maximum HP. The Soldier then returns x4 the absorbed damage to the current threat.</td>
     </tr>
     <tr>
-      <td><b>Power Name</b></td>
-      <td>Description</td>
+      <td><b>Iron Wall</b></td>
+      <td>Nullifies 30% of incoming damage to the Soldier for the next 4 turns and reflects 25% of each blocked hit back to the attacker.</td>
     </tr>
     <tr>
-      <td><b>Power Name</b></td>
-      <td>Description</td>
+      <td><b>Suppressive Fire</b></td>
+      <td>Reduces all incoming threat attack by 15% for the current turn and next turn.</td>
     </tr>
     <tr>
-      <td><b>Power Name</b></td>
-      <td>Description</td>
+      <td><b>Last Stand</b></td>
+      <td>For the next 4 turns, the Soldier cannot be knocked out and reflects 200% of all received damage back to the attacker. After Last Stand expires, the Soldier’s HP reduces by 30% the following turn.</td>
     </tr>
   </tbody>
   <thead>
@@ -320,27 +320,37 @@ A micrometeorite has punched through the hull of an observation deck, leaving a 
   </thead>
   <tbody>
     <tr>
-      <td><b>Power Name</b></td>
-      <td>Description</td>
+      <td><b>Security Breach</b></td>
+      <td>Iron Wall cannot be activated if the incoming hit deals 50% or more of the Soldier’s maximum HP in the current turn.</td>
     </tr>
     <tr>
-      <td><b>Power Name</b></td>
-      <td>Description</td>
+      <td><b>Weakened Protection Shield</b></td>
+      <td>Each repeated use of Protection reduces its reflected damage output by 5% cumulatively (e.g., second use: -5%; third use: -10%).</td>
     </tr>
     <tr>
-      <td><b>Power Name</b></td>
-      <td>Description</td>
+      <td><b>Stand-alone</b></td>
+      <td>Last Stand is only available when the Soldier received 50% or more damage to maximum HP.</td>
     </tr>
     <tr>
-      <td><b>Power Name</b></td>
-      <td>Description</td>
+      <td><b>Fatally Fatigued</b></td>
+      <td>After Iron Wall’s effect expires, the ability becomes unavailable for the next three turns.</td>
     </tr>
   </tbody>
 </table> 
 
 
 ## Completing a Mission
-Text
+### Initiating the Mission
+The user selects one of the five missions available to complete in the game Project Princess 010:
+1. Fly Through the Uncharted Asteroid Field,
+2.	Reactor Core Meltdown,
+3.	Oxygen System Failure, 
+4.	Mysterious Illness Outbreak, and 
+5.	Breach in an Observation Deck.
+
+After clicking on the desired mission, the application navigates the user from the Control Room page (the application’s Home page) to the Mission Control Page. In the Mission Control Page, the mission’s assignment is detailed in the Mission Control sub-section. For example, if the user selected Mission 4: Mysterious Illness Outbreak, the application returns its task description: 
+> “Following a visit to a recently visited planet, passengers are falling ill. After examining patients in the isolation pods, it is revealed that the discovered pathogen is unlike anything in the fleet’s medical database. Your mission is to contain the outbreak before it spreads ship wide. Remember, the isolation pods cannot hold forever.”
+
 
 ## Gaining XP and Leveling Up
 Text
