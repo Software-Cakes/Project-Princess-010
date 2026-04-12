@@ -55,6 +55,17 @@ Razor-focused and cool under pressure, the Pilot is the brain of any mission. Th
     <tr>
       <td></td>
       <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
       <td></td>
     </tr>
   </tbody>
