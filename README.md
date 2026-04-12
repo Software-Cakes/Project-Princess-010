@@ -8,7 +8,7 @@ Member(s): Muhasana Muskan (002275684) and Suthinee Segkhoonthod (000371030)
 ## Welcome Aboard to Project Princess 010!
 Project Princess 010 has successfully come to fruition: people can now enjoy a fun cruise exploring space! The crew members of Project Princess 010 are tasked with ensuring and maintaining the well-being of the passengers and a safe journey through space. However, they often find themselves in dangerous situations, from maneuvering through an asteroid field to avoiding incoming solar flares. Players must ensure that threats are eliminated so that the passengers of Project Princess 010 have a safe, wonderful journey as they experience space exploration.
 
-> Claude and Gemini were used in this assignment to explain coding errors and encountered bugs.
+> Claude and Gemini were used in this assignment to explain and help fix coding errors and encountered bugs.
 
 <br>
 
