@@ -59,7 +59,9 @@ A micrometeorite has punched through the hull of an observation deck, leaving a 
 
 ## Meet the Crew
 ### Pilot 🚀
-<img src="game%20assets/crew_members/pilot.png" width="300" align="center"> 
+<p align="center">
+  <img src="game%20assets/crew_members/pilot.png" width="250">
+</p>
 
 _ _Razor-focused and cool under pressure, the Pilot is the brain of any mission. The Pilot reads incoming threats, making split-second calls to keep everyone safe while simultaneously mapping escape routes in the case the worst comes to pass._ _
 <table>
