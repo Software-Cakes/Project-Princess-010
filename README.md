@@ -8,6 +8,8 @@ Project Princess 010 has successfully come to fruition: people can now enjoy a f
 
 > Claude and Gemini were used in this assignment to explain coding errors and encountered bugs.
 
+<br>
+
 ## Table of Contents
 * [Game Features](#game-features)
 * [UML Diagram](#uml_diagram)
@@ -19,6 +21,8 @@ Project Princess 010 has successfully come to fruition: people can now enjoy a f
 * [Meet the Crew](#meet-the-crew)
 * [Completing a Mission](#completing-a-mission)
 * [Gaining XP and Leveling Up](#gaining-xp-and-leveling-up)
+
+<br>
 
 ## Game Feature
 Text
