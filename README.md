@@ -16,7 +16,7 @@ Project Princess 010 has successfully come to fruition: people can now enjoy a f
 * [Game Features](#game-features)
 * [UML Diagram](#uml-diagram)
 * [UI Wireframes](#ui-wireframes)
-* [Utilized Technologies](#utilized-technologies)
+* [Utilized Tools](#utilized-tools)
 * [Demonstration Video](#demonstration-video)
 * [Installation](#installation)
 * [Missions of Project Princess 010](#missions-of-project-princess-010)
@@ -69,7 +69,7 @@ To add an additional character, the user may press the Add to Your Crew button, 
 
 <br>
 
-## Utilized Technologies
+## Utilized Tools
 * FigJam: Developing the application's UML diagram
 * Procreate: Sketching in the initial UI wireframes and designing the application's game assets
 * Figma: Designing the application's UI wireframes
