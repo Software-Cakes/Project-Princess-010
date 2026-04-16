@@ -476,7 +476,7 @@ If the mission is successfully completed, the application will print the followi
 However, in the case where the user does not successfully complete the mission:
 > “Critical failure! Initiate Recovery Protocol 67: locate the nearest habitable planet immediately for recovery. Any found repairs will be completed there before Project Princess 010 can continue her voyage through the stars. Returning to the control room…”
 
-The application returns the user to the Home page, where the user can select a new mission assignment to complete. 
+The application returns the user to the Mission Control page, where the user can complete the mission again with either the same characters or different crew members. 
 
 <br>
 
