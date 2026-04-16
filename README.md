@@ -59,7 +59,7 @@ To add an additional character, the user may press the Add to Your Crew button, 
 <br>
 
 ## UI Wireframes
-### Preliminary UI Wireframes Designs
+### Preliminary UI Wireframe Designs
 ![](ui%20wireframes/initial_designs.jpg)
 
 ### Final UI Wireframe Designs
