@@ -528,7 +528,7 @@ To advance a Level 4 Medic to a Level 5 Medic:
   <i>90XP (Cummulative Total XP) + 50XP (to reach Level 5) = 140XP Total Required</i>
 </p>
 
-The mission’s difficulty and threat damage levels increase based on each character’s current level. If two crew members who were selected to complete the mission have varying levels, threat scaling is based on the average of both characters’’ levels, rounded down. For example, A Level 3 Medic paired with a Level 1 Pilot produces an average of threat level 2. 
+The mission’s difficulty and threat damage levels increase based on each character’s current level. If two crew members who were selected to complete the mission have varying levels, threat scaling is based on the average of both characters’ levels, rounded down. For example, A Level 3 Medic paired with a Level 1 Pilot produces an average of threat level 2. 
 
 <br>
 
