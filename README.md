@@ -23,6 +23,7 @@ Project Princess 010 has successfully come to fruition: people can now enjoy a f
 * [Meet the Crew](#meet-the-crew)
 * [Completing a Mission](#completing-a-mission)
 * [Gaining XP and Leveling Up](#gaining-xp-and-leveling-up)
+* [Implemented Features and Points Table](#implemented-features-and-points-table)
 
 <br>
 
@@ -448,13 +449,13 @@ After choosing two crew members, the user presses the “Start Mission” button
 
 ### Mission Battle Structure and Logic 🕹
 Initiating the mission, the application first generates a threat and directs it to Character A. Once damage is resolved, the application prints one of the preexisting UI messages. In this hypothetical scenario, the user has chosen a Medic and a Pilot to complete the fourth mission. After generating the threat to the Medic character, the application will print the following UI message: 
-> “Passengers in the quarantine area are deteriorating faster than you can treat them. (Character’s name) takes (number) damage. Choose your next move to neutralize the threat!”
+> “Passengers in the quarantine area are deteriorating faster than you can treat them. (Threat HP X/X) (Character’s name) takes (number) damage. Choose your next move to neutralize the threat!”
 
 The game console, located in the bottom part of the screen, then displays Character A's abilities. In this hypothetical case, it prints the Medic’s powers: (1) Field Triage, (2) Antidote Protocol, (3) Adrenaline Shot, and (4) Emergency Revival. After selecting the character’s next move, the application prints out the following UI message: 
 > “(Character’s name) deploys (Power’s name) to neutralize the threat!”
 
 The system then generates a threat that attacks Character B (in this example use case, the Pilot). Once damage is resolved, it prints out the following message: 
-> “Infected crew members are no longer fit for duty, and failing automated systems are surging through the flight controls. (Character’s name) takes (number) damage. Choose your next move to neutralize the threat!”
+> “Infected crew members are no longer fit for duty, and failing automated systems are surging through the flight controls. (Threat HP X/X) (Character’s name) takes (number) damage. Choose your next move to neutralize the threat!”
 
 The game console then displays Character B's abilities. In this hypothetical case, it prints the Pilot’s powers: (1) Evasive Maneuver, (2) Slipstream Draft, (3) Navigation Lock, and (4) Emergency Burn. After selecting the character’s next move, the application prints the following UI message: 
 > “(Character’s name) deploys (Power’s name) to neutralize the threat!”
@@ -528,3 +529,57 @@ To advance a Level 4 Medic to a Level 5 Medic:
 </p>
 
 The mission’s difficulty and threat damage levels increase based on each character’s current level. If two crew members who were selected to complete the mission have varying levels, threat scaling is based on the average of both characters’’ levels, rounded down. For example, A Level 3 Medic paired with a Level 1 Pilot produces an average of threat level 2. 
+
+<br>
+
+## Implemented Features and Points Table
+<table>
+  <thead>
+    <tr>
+      <th>Feature</th>
+      <th>Points</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Mandatory Requirements</td>
+      <td>13</td>
+    </tr>
+    <tr>
+      <td>RecyclerView</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Crew Images</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Mission Visualization</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>Tactical Combat</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>Statistics</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Fragments</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>Data Storage and Loading</td>
+      <td>2</td>
+    </tr>
+     <tr>
+      <td>Statistics Visualization</td>
+      <td>2</td>
+    </tr>
+     <tr>
+      <td><b>Total points</b></td>
+      <td><b>26</b></td>
+    </tr>
+  </tbody>
+</table>
