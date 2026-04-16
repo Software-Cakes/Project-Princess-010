@@ -26,7 +26,7 @@ Project Princess 010 has successfully come to fruition: people can now enjoy a f
 
 <br>
 
-## Game Feature
+## Game Features
 ### Home Page 🏠
 The Home page displays the user's crew members in a Card Layout. Each card contains the crew member's given name (which can be renamed by the user himself/herself), current level, current XP, and number of successfully completed missions. To change a character's name, the user presses on the name string. Once clicked, a keyboard will pop up. After modifying the character's name, the user clicks "Enter" on the keyboard and the game will automatically update the newly modified input data. 
 
@@ -59,7 +59,7 @@ To add an additional character, the user may press the Add to Your Crew button, 
 <br>
 
 ## UI Wireframes
-### Initial UI Wireframes Designs
+### Preliminary UI Wireframes Designs
 ![](ui%20wireframes/initial_designs.jpg)
 
 ### Final UI Wireframe Designs
