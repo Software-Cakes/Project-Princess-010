@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="16dp"
+    app:cardCornerRadius="12dp"
+    app:cardElevation="4dp">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/crew_card_bg"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/project_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="PROJECT PRINCESS 010"
+            android:textColor="@color/white"
+            android:textSize="10sp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/role_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="PILOT"
+            android:textColor="@color/white"
+            android:textSize="10sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/char_image"
+            android:layout_width="120dp"
+            android:layout_height="150dp"
+            android:layout_marginTop="8dp"
+            android:background="@color/white"
+            android:padding="8dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/pilot"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/project_text" />
+
+        <TextView
+            android:id="@+id/char_desc"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="Razor-focused and cool under pressure, the Pilot is the brain of any mission..."
+            android:textColor="@color/white"
+            android:textSize="9sp"
+            android:textStyle="italic"
+            android:gravity="center"
+            app:layout_constraintStart_toStartOf="@id/char_image"
+            app:layout_constraintEnd_toEndOf="@id/char_image"
+            app:layout_constraintTop_toBottomOf="@id/char_image" />
+
+        <TextView
+            android:id="@+id/abilities_header"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:text="Powers and Abilities"
+            android:textColor="@color/white"
+            android:textSize="12sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toEndOf="@id/char_image"
+            app:layout_constraintTop_toTopOf="@id/char_image" />
+
+        <TextView
+            android:id="@+id/abilities_text"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:text="1. Evasive Maneuver...\n2. Slipstream Draft..."
+            android:textColor="@color/white"
+            android:textSize="9sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="@id/abilities_header"
+            app:layout_constraintTop_toBottomOf="@id/abilities_header" />
+
+        <TextView
+            android:id="@+id/weaknesses_header"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:text="Weaknesses"
+            android:textColor="@color/white"
+            android:textSize="12sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="@id/abilities_header"
+            app:layout_constraintTop_toBottomOf="@id/abilities_text" />
+
+        <TextView
+            android:id="@+id/weaknesses_text"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:text="1. Exposed Cockpit...\n2. Automatic Control Loss..."
+            android:textColor="@color/white"
+            android:textSize="9sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="@id/weaknesses_header"
+            app:layout_constraintTop_toBottomOf="@id/weaknesses_header" />
+
+        <androidx.constraintlayout.widget.Barrier
+            android:id="@+id/bottom_barrier"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:barrierDirection="bottom"
+            app:constraint_referenced_ids="char_desc,weaknesses_text" />
+
+        <Button
+            android:id="@+id/btn_add_to_crew"
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:layout_marginTop="16dp"
+            android:backgroundTint="@color/white"
+            android:insetTop="0dp"
+            android:insetBottom="0dp"
+            android:text="Add to Your Crew"
+            android:textAllCaps="false"
+            android:textColor="@color/deep_blue"
+            android:textSize="12sp"
+            android:textStyle="bold"
+            app:cornerRadius="4dp"
+            app:layout_constraintTop_toBottomOf="@id/bottom_barrier"
+            app:layout_constraintBottom_toBottomOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.cardview.widget.CardView>
