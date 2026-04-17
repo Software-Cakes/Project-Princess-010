@@ -81,7 +81,7 @@ To add an additional character, the user may press the Add to Your Crew button, 
 <br>
 
 ## Demonstration Video
-Text
+Link: https://drive.google.com/file/d/1e7e3sBgeVwfMVCm4vxR54ThkKJGkUAqv/view?usp=sharing
 
 <br>
 
